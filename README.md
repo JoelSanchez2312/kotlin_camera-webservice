@@ -1,2 +1,2 @@
-# KotlinFirebaseUpload
- A mobile app with kotlin language and firebase as a web service by Rolando Atuña.
+Aplicación que consume el web servide Firebase.
+Aplicación que toma fotos.
