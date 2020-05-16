@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "656929234923",
+    "firebase_url": "https://kotlinfirebaseupload-f7fbc.firebaseio.com",
+    "project_id": "kotlinfirebaseupload-f7fbc",
+    "storage_bucket": "kotlinfirebaseupload-f7fbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656929234923:android:761a2000b00951415283ae",
+        "android_client_info": {
+          "package_name": "com.bibavix.kotlinfirebaseupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656929234923-d02l0ie56iakvr77hel9gndchaubfkno.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bibavix.kotlinfirebaseupload",
+            "certificate_hash": "c0552ac220c435a762ce55036f5ab23817338c64"
+          }
+        },
+        {
+          "client_id": "656929234923-dsv1n4gn7clu08hjioc2c796hbqhudlf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIcZMcimOuy4NNjqna6ovdAD40xeDOCW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656929234923-dsv1n4gn7clu08hjioc2c796hbqhudlf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

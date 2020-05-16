@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cathemera</string>
+    <string name="btn_choose">Choose</string>
+    <string name="btn_camera">Camera</string>
+    <string name="btn_upload">Upload</string>
+    <string name="go_back">Back</string>
+    <string name="progress"></string>
+</resources>
